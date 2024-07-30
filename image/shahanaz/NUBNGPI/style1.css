@@ -1,0 +1,44 @@
+.computer{
+    background-repeat: no-repeat;
+    background-image: url(image/civil-engineering-pa6hvqgpaqfw6mgb.jpg);
+    
+    padding-top: 200px;
+    padding-bottom: 450px;
+    padding-left: 100px;
+    padding-right: 300px;
+    margin-top: 20px;
+    padding-top: 40px;
+    margin-left: 100px;
+    margin-right: 50px;
+    border-radius: 50px;
+    
+    
+   
+   
+}
+h1{
+    
+    font-style: italic;
+    color:chocolate;
+    font-size: 50px;
+    text-align: center;
+    
+
+   
+    
+}
+h4{
+    color:black;
+}
+li{
+    list-style: none;
+    padding-left: 20px;
+    
+    
+   
+}
+ul{
+    display: flex;
+    padding-left: 100px;
+    font-size: 20px;
+}

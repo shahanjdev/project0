@@ -1,0 +1,35 @@
+
+
+.man{
+    background-color: rgb(190, 171, 207);
+    padding: 5px;
+    margin: 100px;
+    border: 5px;
+}
+.name{
+    background-color: rgb(233, 109, 109);
+    padding: 10px;
+    margin: 100px;
+    border: 5px;
+
+}
+.fan{
+    background-color: rgb(196, 233, 109);
+    padding: 10px;
+    margin: 100px;
+    border: 5px;
+
+}
+.cat{
+    background-color: rgb(170, 144, 144);
+    padding: 10px;
+    margin: 100px;
+    border: 5px;
+}
+.kite{
+    background-color: rgb(221, 139, 139);
+    padding: 10px;
+    margin: 100px;
+    border: 5px;
+    text-align: justify;
+}
